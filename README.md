@@ -31,7 +31,7 @@ Big-O Analysis (continued):
 •	The data above shows 1000 runs testing the counting matrix, and time matrix. This showed that over high iterations of use the program showed overall expected efficiency, over time both algorithms appeared to become more efficient, this would suggest both were some type of LOG n but greater than O(n). 
 •	The O(n) values were derived using a LOG (X, Y) function comparing the value of runs to the complexity counts. The highest numbers seen were averaged at O(n(log n).
 
-Hypothesis: If a program has nested functionality then it will be less efficient of an algorithmic structure.
+Hypothesis: If a program has nested functionality then it will be less efficient than a recursive structure.
 
 
 Test Plan: Step-by-step instructions, limitations, and expectation of results for user
